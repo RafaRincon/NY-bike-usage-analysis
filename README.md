@@ -16,7 +16,9 @@ In Los Angeles, there exists a shared bicycle system that provides anonymous dat
 * plan_duration: Number of days the user will have the pass. 0 means a single trip (Walk-up plan)
 * trip_route_category: "Round trip" refers to trips that start and end at the same station
 * passholder_type: The name of the passholder plan
+  
+Data is available in https://www.kaggle.com/competitions/ds-programming-test/data
 
- For the analytical problem, the goal is to determine if it is possible to infer whether the pass type is a "Monthly Pass" considering the other travel variables. 
+For the analytical problem, the goal is to determine if it is possible to infer whether the pass type is a "Monthly Pass" considering the other travel variables. 
  
  <b>Note</b>: This challenge is part of a Kaggle competition.
