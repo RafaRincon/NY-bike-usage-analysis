@@ -1,6 +1,8 @@
 <b>Description</b>
 
-<img align="center" width="450" height="400" src="https://images.ctfassets.net/1aemqu6a6t65/3OarGhpmhAjQSgd6fixGkH/3db0d25107cac87f9c9150429f155f1c/citibike_joebuglewicz_3315?w=1200&h=800&q=75">
+<p align="center">
+<img align="center" width="425" height="350" src="https://images.ctfassets.net/1aemqu6a6t65/3OarGhpmhAjQSgd6fixGkH/3db0d25107cac87f9c9150429f155f1c/citibike_joebuglewicz_3315?w=1200&h=800&q=75">
+</p>
 
 In Los Angeles, there exists a shared bicycle system that provides anonymous data about the usage of the service it offers. The provided table contains the historical records of trips conducted over approximately 9 months, with a particular column of interest that will be analyzed in greater depth: Passholder_type. Below are the columns present in the table:
 
